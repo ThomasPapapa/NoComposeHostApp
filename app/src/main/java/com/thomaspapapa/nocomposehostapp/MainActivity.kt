@@ -2,9 +2,6 @@ package com.thomaspapapa.nocomposehostapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.activity.compose.setContent
-import androidx.compose.ui.platform.ComposeView
-import androidx.compose.ui.platform.ViewCompositionStrategy
 import com.thomas.mytestlibraryhelloworld.TestLibraryHelloWorld
 import com.thomaspapapa.nocomposehostapp.databinding.ActivityMainBinding
 
